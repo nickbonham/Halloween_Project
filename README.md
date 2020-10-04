@@ -1,1 +1,3 @@
 # Halloween_Project
+
+Happy Halloween! Lizzie and I are making an automatic candy dispenser to ensure a COVID-safe experience for our trick-or-treaters. This dispenser will have a push button that will initiate a randomized roulette game to select either 'trick' or 'treat'. Upon selection of 'trick', one of 4 audio files will play and some candy will be dispensed. Upon selection of 'treat' a victory-sound will play and candy will be dispensed. 
